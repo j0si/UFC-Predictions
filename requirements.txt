@@ -11,7 +11,7 @@ numpy
 matplotlib
 seaborn
 jupyter==1.0.0
-sklearn
+scikit-learn
 xgboost==1.0.2
 search-google==1.2.1
 beautifulsoup4==4.9.0
